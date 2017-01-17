@@ -365,7 +365,20 @@ footer .footer-below {
   border-color: #18BC9C;
   font-weight: 700;
 }
-
+.btn-scrolltop:hover,
+.btn-scrolltop:focus,
+.btn-scrolltop:active,
+.btn-scrolltop.active,
+.open .dropdown-toggle.btn-scrolltop {
+  color: white;
+  background-color: #1a242f;
+  border-color: #161f29;
+}
+.btn-scrolltop:active,
+.btn-scrolltop.active,
+.open .dropdown-toggle.btn-scrolltop {
+  background-image: none;
+}
 
 
 .btn-primary {
