@@ -424,7 +424,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-success {
-  color: #E3E3E3;
+  color: #ffffff;
   background-color: #2C3E50;
   border-color: #2C3E50;
   font-weight: 700;
@@ -434,9 +434,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-success:active,
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
-  color: #E3E3E3;
-  background-color: #000000;
-  border-color: #000000;
+  color: #ffffff;
+  background-color: #18BC9C;
+  border-color: #18BC9C;
 }
 .btn-success:active,
 .btn-success.active,
