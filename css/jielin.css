@@ -490,10 +490,10 @@ fieldset[disabled] .btn-success.active {
 }
 .scroll-top .btn {
   font-size: 20px;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   border-radius: 100%;
-  line-height: 20px;
+  line-height: 28px;
 }
 .scroll-top .btn:focus {
   outline: none;
