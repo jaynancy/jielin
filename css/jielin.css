@@ -371,8 +371,8 @@ footer .footer-below {
 .btn-scrolltop.active,
 .open .dropdown-toggle.btn-scrolltop {
   color: white;
-  background-color: #1a242f;
-  border-color: #161f29;
+  background-color: #18BC9C;
+  border-color: #18BC9C;
 }
 .btn-scrolltop:active,
 .btn-scrolltop.active,
@@ -490,10 +490,10 @@ fieldset[disabled] .btn-success.active {
 }
 .scroll-top .btn {
   font-size: 20px;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   border-radius: 100%;
-  line-height: 28px;
+  line-height: 20px;
 }
 .scroll-top .btn:focus {
   outline: none;
